@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "OCKM-T: k-means seeding by search on tree summaries"
+authors:
+  - family-names: Paul
+    given-names: Barun Kr.
+    affiliation: "NITTTR Kolkata; Srikrishna College"
+  - family-names: Giri
+    given-names: Kinsuk
+    affiliation: "NITTTR Kolkata"
+license: MIT
+version: "1.0"
+date-released: "2026-10-04"
